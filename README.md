@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/539a6c47-abfd-4ccf-99a0-597c646b1c67)![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
 <h3 align="center">Data Scientist / software engineer / prompt engineer</h3>
 
