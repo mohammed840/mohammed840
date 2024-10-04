@@ -1,4 +1,4 @@
-![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
+![image](https://github.com/user-attachments/assets/539a6c47-abfd-4ccf-99a0-597c646b1c67)![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
 <h3 align="center">Data Scientist / software engineer / prompt engineer</h3>
 
@@ -17,18 +17,9 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/abdullah-khaled-0608a9236" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Abdullah Khaled" height="40" width="40" />
-  </a>
-  <a href="https://kaggle.com/abdullah7aled" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle - Abdullah Khaled" height="40" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/abdullah_7aled" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - Abdullah Khaled" height="40" width="40" />
-  </a>
-  <a href="https://wa.me/+201557504902" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp - Abdullah Khaled" height="40" width="40" />
-  </a>
+  <a href="https://www.linkedin.com/in/mohammed-alshehri-0a8ab81b1/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Mohammed" height="40" width="40" />
+
 </p>
 
 
@@ -38,11 +29,9 @@
 
 ---
 
-#### 🏫 **Bachelor's Degree in Information Systems**
+#### 🏫 **Bachelor's Degree in Computer Science with Data science**
 
-- ![University Badge](https://img.shields.io/badge/Beni_Suef_University-0055A4?style=flat&logo=university&logoColor=white)
-- ![GPA Badge](https://img.shields.io/badge/GPA-3.1/4.0-brightgreen)
-- ![Duration Badge](https://img.shields.io/badge/Duration-October%202021%20–%20July%202025-yellow)
+- ![University Badge](https://www.google.com/url?sa=i&url=https%3A%2F%2Fimplementeducation.co.uk%2Fdetails-university%2F59&psig=AOvVaw0bhAGsUBwqQEm5HxX-PYPH&ust=1728127196747000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODnjdDN9IgDFQAAAAAdAAAAABAE)
 
 ---
 
@@ -52,12 +41,10 @@
 
 ---
 
-## 🧑‍💻 Data Scientist Intern  
-**WorldQuant University** · *Remote*  
-**May 2023 - May 2023** (1 month)  
+## 🧑‍💻 ML engineer intern  
+**ibm** · *hybrid*  
+**March 2023 - august 2023** (6 months)  
 
-**Key Responsibilities:**
-- Engaged in the **Applied Data Science Lab**, applying data science methodologies to real-world projects.
 
 [![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistical_analysis) [![Databases](https://img.shields.io/badge/Databases-FF4500?style=for-the-badge)](https://www.databases.com)  [![Data Analysis](https://img.shields.io/badge/Data_Analysis-32CD32?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_analysis) [![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Hypothesis_testing)  [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) [![Statistics](https://img.shields.io/badge/Statistics-FF6347?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistics)  [![Time Series Forecasting](https://img.shields.io/badge/Time_Series_Forecasting-8B008B?style=for-the-badge)](https://en.wikipedia.org/wiki/Time_series) [![Data Visualization](https://img.shields.io/badge/Data_Visualization-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_visualization)  [![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_cleansing) [![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering)
 
