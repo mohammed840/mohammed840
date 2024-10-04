@@ -31,6 +31,9 @@
 
 #### 🏫 **Bachelor's Degree in Computer Science with Data science**
 
+- ![University Badge](https://img.shields.io/badge/University_College_Dublin-0055A4?style=flat&logo=university&logoColor=white)
+- ![Duration Badge](https://img.shields.io/badge/Duration-%202021%20–%%202024-yellow)
+
 
 ---
 
