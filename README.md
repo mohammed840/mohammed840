@@ -51,7 +51,7 @@
 ## 🖥️ Software Engineer  
 **Self-employed**  
 **Nov 2021 - Dec 2022** (1 year 2 months)  
-**Location:** Egypt  
+**Location:** Saudi Arabia / Ireland  
 
 **Key Projects:**
 - **FCAI App:** Designed to assist classmates with academic materials, streamlining access to resources.
@@ -160,30 +160,12 @@
 
 ---
 
-## 🛒 Customer Segmentation Based on RFM Analysis  
 
-**Description:**  
-🚀 Excited to share my latest project on **Customer Segmentation** using **RFM (Recency, Frequency, Monetary)** analysis for a UK-based online retailer specializing in unique gifts. This project analyzed customer transactions to segment audiences effectively.
 
-[![Customer Segmentation Based on RFM](https://github.com/abdullah0150/Images/blob/main/images/project-2.png)](https://github.com/abdullah-khaled0/Customer-Segmentation-based-on-RFM/blob/main/Presentation.pdf)  
 
-**Business Goal:**  
-🎯 Enable targeted marketing strategies by segmenting customers based on their purchasing behavior.
 
-**Tools & Technologies:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-315796?style=flat&logo=matplotlib&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
----
 
-## 🎮 A/B Testing for Cookie Cats Mobile Game  
-
-**Description:**  
-🔍 Led an **A/B Testing** analysis for the mobile game **Cookie Cats**, evaluating player retention between control and test groups. Used statistical techniques like **Shapiro-Wilk**, **Levene's Test**, and **T-tests** to provide business recommendations that improved retention rates.
-
-[![A/B Testing Cookie Cats](https://github.com/abdullah0150/Images/blob/main/images/project-1.png)](https://github.com/abdullah-khaled0/A-B-Testing-with-Cookie-Cats-mobile-game-dataset/blob/main/presentation.pdf)
-
-**Tools & Technologies:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 ---
 
@@ -223,15 +205,7 @@ Performed customer segmentation using **K-Means Clustering** to categorize custo
 
 ---
 
-## 🎥 Movie Recommendation System  
 
-**Description:**  
-Built a movie recommendation system using the **MovieLens 100k** dataset, optimizing with **SVD** and **grid search**. Achieved an RMSE score of 0.94 to enhance user experience on streaming platforms.
-
-[![Movie Recommendation System](https://github.com/abdullah0150/Images/blob/main/images/project-4.png)](https://github.com/your-username/your-repo-link)
-
-**Tools & Technologies:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SVD](https://img.shields.io/badge/SVD_Model-FF4500?style=flat) ![Grid Search](https://img.shields.io/badge/Grid_Search-orange)
 
 
 ---
@@ -345,11 +319,7 @@ Built a movie recommendation system using the **MovieLens 100k** dataset, optimi
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-khaled0&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   </div>
   
-  <!-- Stats Card -->
-  <div style="text-align: center; margin-bottom: 20px;">
-    <h3>GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=abdullah-khaled0&show_icons=true&locale=en" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  </div>
+
   
   <!-- Streak Stats -->
   <div style="text-align: center; margin-bottom: 20px;">
