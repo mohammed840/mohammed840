@@ -31,7 +31,7 @@
 
 #### 🏫 **Bachelor's Degree in Computer Science with Data science**
 
-- ![University Badge](https://www.google.com/url?sa=i&url=https%3A%2F%2Fimplementeducation.co.uk%2Fdetails-university%2F59&psig=AOvVaw0bhAGsUBwqQEm5HxX-PYPH&ust=1728127196747000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODnjdDN9IgDFQAAAAAdAAAAABAE)
+- ![University Badge](https://implementeducation.co.uk/public/uploads/universityLogos/2024/01/20/1705743479.png)
 
 ---
 
