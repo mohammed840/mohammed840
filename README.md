@@ -177,7 +177,6 @@
 **Description:**  
 Built a fully automated machine learning pipeline using **Python** and **DVC**. This pipeline handles data preprocessing, model training using **XGBoost**, and evaluation. Versioning and reproducibility are ensured via **DVC**.
 
-[![Automated ML Pipeline](https://github.com/abdullah0150/Images/blob/main/images/project-3.png)]
 
 **Tools & Technologies:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![DVC](https://img.shields.io/badge/DVC-F37626?style=flat&logo=dvc&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat&logo=xgboost&logoColor=white)
@@ -201,7 +200,6 @@ Analyzed sales data, leading to a **39% YoY growth** in sales by visualizing cha
 **Description:**  
 Performed customer segmentation using **K-Means Clustering** to categorize customers by behavioral patterns. These insights helped the company design personalized marketing strategies, improving customer engagement and revenue.
 
-[![Customer Personality Analysis](https://github.com/Heba-A-Saleh/images1/blob/main/lv_0_20230317181948.gif)]
 
 **Tools & Technologies:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![K-Means Clustering](https://img.shields.io/badge/K--Means_Clustering-FF6347?style=flat&logo=clustering)   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
