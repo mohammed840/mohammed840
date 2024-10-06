@@ -188,7 +188,6 @@ Built a fully automated machine learning pipeline using **Python** and **DVC**. 
 **Description:**  
 Analyzed sales data, leading to a **39% YoY growth** in sales by visualizing channel performance and promotional effectiveness using **Power BI**. Provided actionable insights that optimized future sales strategies, driving revenue growth.
 
-[![Sales Performance Enhancement](https://github.com/abdullah0150/Images/blob/main/images/project-5.png)](https://github.com/abdullah-khaled0/Sales-Dashboard-in-PowerBI/blob/main/presentation.pdf)
 
 **Tools & Technologies:**  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-4B4B4B?style=flat) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-4682B4?style=flat&logo=visualization&logoColor=white)
