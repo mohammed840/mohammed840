@@ -1,6 +1,9 @@
 ![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
-<h1 align="center">Hi 👋, I'm Mohammed</h1>
-<h3 align="center">Data Scientist / software engineer / prompt engineer</h3>
+<h1 align="center">Hi 👋, I'm Mohammed Alshehri</h1>
+<h3 align="center">AI/ML Research Engineer | Speech & Multimodal Systems | LLM Fine-tuning & Post-Training RLHF</h3>
+
+<p align="center">
+</p>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ee/ed/e2/eeede229147eb053fe863ef1cc7faf0b.gif" />
 
@@ -11,8 +14,8 @@
 ---
 
 ### 👨‍💻 About Me:
-- 💬 **Ask me about**: Machine Learning, Deep Learning, Data Science, Data Analytics  
-- ⚡ **Fun fact**: I'm passionate about learning new things!  
+- 💬 **Ask me about**: AI/ML Research, Speech Systems (ASR), LLM Fine-tuning, Post-Training Reinforcement Learning, Multimodal AI, Prompt Engineering
+- ⚡ **Fun fact**: Passionate about building production ML systems and Arabic-first AI solutions!  
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
@@ -42,12 +45,52 @@
 
 ---
 
-## 🧑‍💻 ML engineer intern  
-**ibm** · *hybrid*  
-**March 2023 - august 2023** (6 months)  
+## 🧑‍💻 Researcher & Engineer  
+**Lisan.ai** · *Remote*  
+**August 2025 - Present**  
 
+- Designed an Arabic TTS adaptation pipeline: phoneme normalization, accent controls, prosody tuning; delivered real-time monitoring dashboards for quality and latency.
+- Built an evaluation harness (dataset curation, scoring, regression checks) to track quality across model versions.
+- Fine-tuned Arabic-first LLMs on domain datasets (instruction tuning + preference tuning); improved task accuracy on internal eval sets.
 
-[![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistical_analysis) [![Databases](https://img.shields.io/badge/Databases-FF4500?style=for-the-badge)](https://www.databases.com)  [![Data Analysis](https://img.shields.io/badge/Data_Analysis-32CD32?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_analysis) [![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Hypothesis_testing)  [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) [![Statistics](https://img.shields.io/badge/Statistics-FF6347?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistics)  [![Time Series Forecasting](https://img.shields.io/badge/Time_Series_Forecasting-8B008B?style=for-the-badge)](https://en.wikipedia.org/wiki/Time_series) [![Data Visualization](https://img.shields.io/badge/Data_Visualization-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_visualization)  [![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_cleansing) [![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org) [![LLM Fine-tuning](https://img.shields.io/badge/LLM_Fine--tuning-000000?style=for-the-badge)](https://huggingface.co) [![TTS](https://img.shields.io/badge/Text--to--Speech-FF6B6B?style=for-the-badge)](https://en.wikipedia.org/wiki/Speech_synthesis) [![Evaluation](https://img.shields.io/badge/Model_Evaluation-4B0082?style=for-the-badge)](https://en.wikipedia.org/wiki/Evaluation) [![Arabic NLP](https://img.shields.io/badge/Arabic_NLP-008000?style=for-the-badge)](https://en.wikipedia.org/wiki/Natural_language_processing)
+
+---
+
+## 🧑‍💻 CEO & Lead Research Engineer  
+**Taqriry.ai** · *Remote*  
+**December 2024 - August 2025** (9 months)  
+
+- Co-founded and led ML + product engineering for an AI notetaker: transcription, summarization, and automation workflows.
+- Built summarization pipeline with caching + chunking + streaming; reduced end-to-end processing time by 40% and improved real-time note stability.
+- Actively engaged in sales activities conducting demos, handling client objections, and closing deals while continuing product development.
+- Built MCP-driven summarization algorithms, reducing processing time 40% and improving real-time note quality.
+
+[![Summarization](https://img.shields.io/badge/Summarization-FF6F00?style=for-the-badge)](https://en.wikipedia.org/wiki/Automatic_summarization) [![ASR](https://img.shields.io/badge/Automatic_Speech_Recognition-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Speech_recognition) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org) [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev) [![Product Engineering](https://img.shields.io/badge/Product_Engineering-FF1493?style=for-the-badge)](https://en.wikipedia.org/wiki/Software_engineering)
+
+---
+
+## 🧑‍💻 Multimodal AI Engineer  
+**IBM** · *Hybrid*  
+**June 2024 - December 2024** (7 months)  
+
+- Built and optimized multimodal AI systems combining ASR and LLM prompt engineering to improve speech and text understanding in enterprise AI products.
+- Contributed to the Watsonx team, improving semantic accuracy and human–AI interaction across voice and text pipelines.
+- Designed evaluation frameworks, ran model validation, and collaborated on applied experiments with OpenAI researchers to bridge research ideas into production systems.
+
+[![Multimodal AI](https://img.shields.io/badge/Multimodal_AI-9370DB?style=for-the-badge)](https://en.wikipedia.org/wiki/Multimodal_learning) [![ASR](https://img.shields.io/badge/ASR_Systems-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Speech_recognition) [![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Prompt_engineering) [![Watsonx](https://img.shields.io/badge/IBM_Watsonx-0F62FE?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/watsonx) [![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-4B0082?style=for-the-badge)](https://en.wikipedia.org/wiki/Evaluation)
+
+---
+
+## 🧑‍💻 NLP, AI & Software Engineer Intern  
+**IBM** · *Hybrid*  
+**March 2023 - September 2023** (6 months)  
+
+- Engineered an advanced chatbot utilizing large language models which simplified legal document interactions, achieving a 30% reduction in customer query handling time.
+- Implemented AI-driven algorithms using Python and TensorFlow to automate complex contractual language summarization, cutting document processing time by 40%.
+- Enhanced the chatbot's architecture to deliver 25% quicker and more precise human-like responses, significantly boosting real-time legal jargon interpretation using NLP techniques.
+
+[![LLM](https://img.shields.io/badge/Large_Language_Models-000000?style=for-the-badge)](https://en.wikipedia.org/wiki/Large_language_model) [![NLP](https://img.shields.io/badge/Natural_Language_Processing-339933?style=for-the-badge)](https://en.wikipedia.org/wiki/Natural_language_processing) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org) [![Chatbot](https://img.shields.io/badge/Chatbot_Development-FF1493?style=for-the-badge)](https://en.wikipedia.org/wiki/Chatbot)
 
 ---
 
@@ -88,10 +131,13 @@
 ![SpaCy](https://img.shields.io/badge/SpaCy-000000?style=flat&logo=spacy&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-339933?style=flat&logo=nltk&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-000000?style=flat&logo=huggingface&logoColor=white)
+![ASR Pipelines](https://img.shields.io/badge/ASR_Pipelines-1E90FF?style=flat&logo=speech&logoColor=white)
 
 ### 🧠 Deep Learning & GenAI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![LLM Fine-tuning](https://img.shields.io/badge/LLM_Fine--tuning-000000?style=flat&logo=huggingface&logoColor=white)
+![Post-Training RLHF](https://img.shields.io/badge/Post--Training_RLHF-FF1493?style=flat&logo=reinforcement-learning&logoColor=white)
 ![Langchain](https://img.shields.io/badge/Langchain-000000?style=flat&logo=langchain&logoColor=white)
 ![Cohere](https://img.shields.io/badge/Cohere-00A3E0?style=flat&logo=cohere&logoColor=white)
 
@@ -159,12 +205,19 @@
 
 <br>
 
-# 📊 Recent Projects in Data Analytics
+# 📊 Recent Projects
 
 ---
 
+## 🎙️ Voice-Enabled Patient Education Agent (redec.io)
 
+**Description:**  
+Built a voice-enabled patient education agent using foundation models to simplify lab results and clinical conversations across speech and text. Implemented an evaluation framework to compare foundation model outputs across patient scenarios using rubrics, automated checks, and human review loops.
 
+**Tools & Technologies:**  
+![ASR](https://img.shields.io/badge/ASR-1E90FF?style=flat&logo=speech&logoColor=white) ![LLM](https://img.shields.io/badge/Large_Language_Models-000000?style=flat&logo=huggingface&logoColor=white) ![Evaluation](https://img.shields.io/badge/Model_Evaluation-4B0082?style=flat&logo=evaluation&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+---
 
 
 
