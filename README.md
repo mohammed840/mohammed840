@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Alshehri</h1>
 <h3 align="center">AI/ML Research Engineer | Speech & Multimodal Systems | LLM Fine-tuning & Post-Training RLHF</h3>
 
-<p align="center">
-  📞 +966559654790 | 📧 M.alshehri88@Hotmail.com
-</p>
+
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ee/ed/e2/eeede229147eb053fe863ef1cc7faf0b.gif" />
 
