@@ -46,8 +46,20 @@
 
 ---
 
+## 🧑‍💻 Researcher & Engineer  
+*Remote*  
+**August 2025 - Present**  
+
+- Designed an Arabic TTS adaptation pipeline: phoneme normalization, accent controls, prosody tuning; delivered real-time monitoring dashboards for quality and latency.
+- Built an evaluation harness (dataset curation, scoring, regression checks) to track quality across model versions.
+- Fine-tuned Arabic-first LLMs on domain datasets (instruction tuning + preference tuning); improved task accuracy on internal eval sets.
+
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org) [![LLM Fine-tuning](https://img.shields.io/badge/LLM_Fine--tuning-000000?style=for-the-badge)](https://huggingface.co) [![TTS](https://img.shields.io/badge/Text--to--Speech-FF6B6B?style=for-the-badge)](https://en.wikipedia.org/wiki/Speech_synthesis) [![Evaluation](https://img.shields.io/badge/Model_Evaluation-4B0082?style=for-the-badge)](https://en.wikipedia.org/wiki/Evaluation) [![Arabic NLP](https://img.shields.io/badge/Arabic_NLP-008000?style=for-the-badge)](https://en.wikipedia.org/wiki/Natural_language_processing)
+
+---
+
 ## 🧑‍💻 CEO & Lead Research Engineer  
-**Taqriry.ai** · *Remote*  
+*Remote*  
 **December 2024 - August 2025** (9 months)  
 
 - Co-founded and led ML + product engineering for an AI notetaker: transcription, summarization, and automation workflows.
