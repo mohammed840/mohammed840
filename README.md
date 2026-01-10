@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me:
 - 💬 **Ask me about**: AI/ML Research, Speech Systems (ASR), LLM Fine-tuning, Post-Training Reinforcement Learning, Multimodal AI, Prompt Engineering
-- ⚡ **Fun fact**: Passionate about building production ML systems and Arabic-first AI solutions!  
+- ⚡ **Fun fact**: Passionate about building production ML systems and AI solutions!  
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
